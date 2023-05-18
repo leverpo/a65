@@ -6,8 +6,8 @@
             "activate_banner" : "on",
             "activate_inter" : "on",
             "activate_rating" : "true",
-            "update_app_icon" : "true",
-            "update_app_title" : "true"
+            "update_app_icon" : "https://i.ytimg.com/vi/DOcorhLSqq4/maxresdefault.jpg",
+            "update_app_title" : "title"
 
             "network" : "is",
 

@@ -6,7 +6,7 @@
             "activate_ads_game" : "true",
             "activate_banner" : "on",
             "activate_inter" : "on",
-            "activate_rating" : "false",
+            "activate_rating" : "true",
 
             "network" : "is",
 

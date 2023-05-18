@@ -5,12 +5,9 @@
             "activate_ads_game" : "true",
             "activate_banner" : "on",
             "activate_inter" : "on",
-            "activate_rating" : "true",
-            "update_app_icon" : "https://i.ytimg.com/vi/DOcorhLSqq4/maxresdefault.jpg",
-            "update_app_title" : "title"
 
             "network" : "is",
-
+            "activate_rating" : "true",
             "one_signal" : "1dbb1eb5-b146-4a3d-a32d-a6234cb49261",
             
             "unity_game_id": "5103649",
@@ -56,6 +53,8 @@
 
             "update_app_activate": "true",
             "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
+            "update_app_icon": "https://i.ytimg.com/vi/DOcorhLSqq4/maxresdefault.jpg",
+            "update_app_title": "kkk",
         }
     ],
 

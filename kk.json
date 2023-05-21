@@ -1,13 +1,12 @@
 {
     "ads" : [
         {
-            "activate_ads" : "true",
-            "activate_ads_game" : "true",
+            "activate_ads" : "false",
+            "activate_ads_game" : "false",
             "activate_banner" : "on",
             "activate_inter" : "on",
 
             "network" : "is",
-            "activate_rating" : "false",
             "one_signal" : "1dbb1eb5-b146-4a3d-a32d-a6234cb49261",
             
             "unity_game_id": "5103649",
